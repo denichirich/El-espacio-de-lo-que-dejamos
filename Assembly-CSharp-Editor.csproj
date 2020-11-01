@@ -625,6 +625,9 @@
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -639,6 +642,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>F:/Archivos de programa/El espacio de lo que dejamos/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
